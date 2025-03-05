@@ -1,9 +1,6 @@
 # AIBD
 Coursework involving assignments and projects undertaken for BT3041: Analysis &amp; Interpretation of Biological Data, taught by Dr. Meiyappan Lakshmanan during the Spring 2025 semester.
 
-Here’s a README file for your GitHub repository:
-
----
 
 # Analysis and Interpretation of Biological Data - Assignment 1  
 
@@ -47,7 +44,3 @@ The following tasks were performed in this assignment:
 ## 🔗 Code and Data Access  
 The code can also be accessed on **Google Colab**:  
 [Colab Notebook Link](https://colab.research.google.com/drive/1Z8Iqt0d9cLqIJVkqUOP05eW-k07LKVcc?usp=sharing)  
-
----
-
-Let me know if you need modifications! 🚀
